@@ -15,7 +15,7 @@ upgrading it has been a great help on my journey learning programming.
 ## Installation
 
 To install this program, the user must download the files in this repository and create a new project from the downloaded files with the provided source code. The 
-eBid_Monthly_Sales_DEc_2016.CSV must also be placed in the root folder where the main.cpp file is located. Once the program is built in C++, the software should run properly.
+eBid_Monthly_Sales_DEc_2016.CSV must also be placed in the root folder where the main.cpp file is located. Once the program is built in C++, the software will run properly.
 
 ## Getting Started
 
