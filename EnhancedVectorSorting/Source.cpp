@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : Enhanced Vector Sorting
 // Author      : Jay Authement
-// Version     : 1.1
-// Copyright   : Copyright © 2017 SNHU COCE
+// Version     : 1.1.0
+// Copyright   : Copyright Â© 2017 SNHU COCE
 // Description : Vector Sorting Algorithms
 //============================================================================
 
