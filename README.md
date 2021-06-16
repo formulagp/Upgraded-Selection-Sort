@@ -45,4 +45,4 @@ the sort can be verified by selecting display bids right after. To exit the prog
 
 [1.0.0] - 2020-6-15
 
-Original project uploaded from my CS - 260 class. Project contains all neccessary files to get the program running and perform selection sorting and quick sorting on the .CSV file.
+- Original project uploaded from my CS - 260 class. Project contains all neccessary files to get the program running and perform selection sorting and quick sorting on the .CSV file.
